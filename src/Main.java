@@ -4,4 +4,6 @@ public class Main {
         Amount a1 = new Amount(100, TransactionType.DEPOSIT);
         System.out.println(a1.getAmount());
     }
+
+
 }
