@@ -5,7 +5,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        PersonalAccount account = new PersonalAccount(12345, "John Doe");
+        PersonalAccount account = new PersonalAccount(12345, "Aiganysh Abdukaarova");
 
         // Performing some transactions
         account.deposit(400.00);
